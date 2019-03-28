@@ -1,0 +1,72 @@
+html,
+body {
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.name {
+    width: 1300px;
+}
+
+.nav-pills {
+    background-color: black;
+    height: 50px;
+    font-size: 22px;
+    margin-top: -20px;
+}
+
+.pageOne {
+    background-image: url(https://aestheticio.com/wp-content/uploads/2015/05/bp_background_2_blue1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 615px;
+}
+
+.pageTwo {
+    position: relative;
+    top: 200px;
+    color:white;
+}
+
+#p1 {
+  position: ;
+    left: 0;
+    right: 0;
+}
+
+#mp {
+    position: relative;
+    top: -50px;
+    color: black;
+}
+
+.footer {
+    position: relative;
+    background-color: black;
+    right: ;
+    left: 0;
+    top: 250px;
+    height: auto;
+    padding-left: 160px;
+}
+
+#name2 {
+    position: relative;
+    left: 20px;
+    top: 40px
+}
+
+#contact {
+    margin-left: 350px;
+    margin-top: -5px
+}
+
+.email {
+    position: relative;
+    left: 600px;
+    font-size: 20px;
+    top: -40px;
+}
